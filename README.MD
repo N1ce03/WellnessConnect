@@ -8,8 +8,6 @@ WellnessConnect is an innovative platform designed to provide anonymous mental h
 - **User-to-User Anonymous Chat**: Connect and chat with others anonymously.
 - **Dashboard & Resources**: Access mental health resources and save useful information.
 
-## 📸 Screenshots
-(Include some images or GIFs showcasing your app UI)
 
 ## 🛠 Tech Stack
 - **Frontend**: React.js, Next.js, Tailwind CSS
